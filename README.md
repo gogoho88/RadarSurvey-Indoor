@@ -6,11 +6,12 @@ Contact: jhchoi93@postech.ac.kr
 | Dataset | Year | Data Type | Annot. Type | Modality | Other | Link | Remarks |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | ---- |
 | IDRad | 2018 | mD | class (ID) | R | - | [Paper](https://ieeexplore.ieee.org/document/8333730)<br> [Website](https://www.imec-int.com/en/IDRad) | * Ghent Univ.<br> * 5 Class<br> * Contact |
+| Vid2Doppler | 2021 | mD | class (activity) | C+R | S | [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445138)<br> [Github](https://github.com/FIGLAB/Vid2Doppler) | * CMU<br> * 12 Class<br> * Contact |
 
 > **Description & Abbreviations**
 > * **[Data Type]** ADC: analog-to-digital converted data, mD: micro-Doppler
 > * **[Modality]** C: camera, D: stereo-depth, L: lidar, R: radar
-> * **[Other]** C: complex (magnitude+phase) data, T: temporal data, S: scanned data, E: elevation dimensions are added
+> * **[Other]** C: complex (magnitude+phase) data, T: temporal data, S: scanned data, E: elevation dimensions are added, S: simulated
 > * **[Remarks]** Contact: must contact to authors for data acquisition
 
 <!--Paper-->
