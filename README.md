@@ -4,7 +4,7 @@ Contact: jhchoi93@postech.ac.kr
 
 <!--Paper-->
 ## Papers
-### AI+Radar (Task aspect)
+### AI+Radar (Application aspect)
 | Year | Journal | Paper | Task | Radar | Link | Remarks |
 | :----: | :----: | ---- | ---- | :----: | :----: | :---- |
 | 2021 | CHI | RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor | Gesture recognition | FMCW Radar (Soli) | [Paper](https://dl.acm.org/doi/abs/10.1145/3411764.3445367) | * Google |
