@@ -5,7 +5,7 @@ Contact: jhchoi93@postech.ac.kr
 <!--Dataset-->
 | Dataset | Year | Data Type | Annot. Type | Modality | Other | Link | Remarks |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | ---- |
-| IDRad | 2018 | mD | class (ID) | R | - | [Paper](Indoor Person Identification Using a Low-Power FMCW Radar)<br> [Website](https://www.imec-int.com/en/IDRad) | * Ghent Univ.<br> * 5 Class<br> * Contact |
+| IDRad | 2018 | mD | class (ID) | R | - | [Paper](https://ieeexplore.ieee.org/document/8333730)<br> [Website](https://www.imec-int.com/en/IDRad) | * Ghent Univ.<br> * 5 Class<br> * Contact |
 
 > **Description & Abbreviations**
 > * **[Data Type]** ADC: analog-to-digital converted data, mD: micro-Doppler
